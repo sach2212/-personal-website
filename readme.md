@@ -5,4 +5,5 @@ second step:-  contents to put on website, we will be using that from any AI too
 Third step :-  after clearing 1st and 2nd step we will start bulding the structure of website using html and later we will assign each other a role 
 
 check out this website:= https://nevonprojects.com/?s=ai
+a
 
